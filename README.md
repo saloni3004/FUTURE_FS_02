@@ -3,7 +3,7 @@ Description
 
 This is a full-stack MERN (MongoDB, Express, React, Node.js) ecommerce application. Users can browse products, add them to the cart, and place orders. Admins can manage products, users, and orders through an admin dashboard.
 
-Features
+FEATURES:-
 
 User authentication (signup, signin) with JWT
 
@@ -15,7 +15,7 @@ Add products to cart and checkout
 
 Responsive design for mobile and desktop
 
-Tech Stack
+TECH STACK:-
 
 Frontend: React.js, Redux, Axios, CSS
 
@@ -23,9 +23,9 @@ Backend: Node.js, Express.js, MongoDB, Mongoose
 
 Authentication: JWT (JSON Web Tokens)
 
-Installation
+INSTALLATION:-
 
-Clone the repository:
+Download or Clone the repository:
 
 git clone https://github.com/saloni3004/FUTURE_FS_02.git
 
